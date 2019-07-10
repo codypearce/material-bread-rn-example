@@ -7,11 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "material-bread": "0.1.6",
+    "material-bread": "0.1.10",
     "react": "16.8.3",
-    "react-dom": "^16.8.6",
-    "react-native": "0.59.4",
-    "react-native-web": "^0.11.4"
+    "react-native": "0.59.4"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
