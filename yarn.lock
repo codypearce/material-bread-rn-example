@@ -924,9 +924,9 @@ acorn-walk@^6.0.1:
   integrity sha512-OtUw6JUTgxA2QoqqmrmQ7F2NYqiBPi/L2jqHyFtllhOUvXYQXf0Z1CYUinIfyT4bTCGmrA7gX9FvHA81uzCoVw==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.1.1"
@@ -3745,10 +3745,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-material-bread@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.0.1.tgz#d2c467093b3273a6ef7a1b87e349b193b63aacdd"
-  integrity sha512-syU4JRk/ZXIklL6yTSREDQS43Lcw2eZj6L2kvHWl7Fvd5GXAkHO2dngiHbLR8n68QgDVLEVZuJvCZaCNlOPMNQ==
+material-bread@0.1.10:
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.1.10.tgz#731ce1b6dbdc993f58c407994ecf1a3e4687a21d"
+  integrity sha512-lDJsDJke6yAh4VRAMvH8Zn77quIi/CuB5JKqlXfxjPhhlYYSp69doPVEk1s13Jp/6nYE7vv4uDLnPXv4qAERnw==
   dependencies:
     color "^3.1.0"
     react-native-vector-icons "^6.2.0"
