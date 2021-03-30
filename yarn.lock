@@ -3745,10 +3745,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-material-bread@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.0.1.tgz#d2c467093b3273a6ef7a1b87e349b193b63aacdd"
-  integrity sha512-syU4JRk/ZXIklL6yTSREDQS43Lcw2eZj6L2kvHWl7Fvd5GXAkHO2dngiHbLR8n68QgDVLEVZuJvCZaCNlOPMNQ==
+material-bread@0.1.10:
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.1.10.tgz#731ce1b6dbdc993f58c407994ecf1a3e4687a21d"
+  integrity sha512-lDJsDJke6yAh4VRAMvH8Zn77quIi/CuB5JKqlXfxjPhhlYYSp69doPVEk1s13Jp/6nYE7vv4uDLnPXv4qAERnw==
   dependencies:
     color "^3.1.0"
     react-native-vector-icons "^6.2.0"
@@ -6281,9 +6281,9 @@ xtend@~4.0.1:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
